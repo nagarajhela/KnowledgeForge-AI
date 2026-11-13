@@ -1,0 +1,6 @@
+{
+  "name": "KnowledgeForge AI",
+  "description": "Production-ready B2B multi-tenant AI Knowledge Base SaaS with strict tenant isolation, hybrid RAG, and grounded citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
